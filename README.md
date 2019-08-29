@@ -107,7 +107,13 @@ geoCode("Austin",(err,geocode)=>{
 //     daily: [...],
 // }
 ```
-
+#### Using `Weyder` utility
+```js
+Weyder("Austin")
+.then(forecast=>{
+    console.log(forecast)
+})
+```
 ### 5. Total Usage
 ```js
 const {geoCode,foreCast,setAccessToken,setWeatherDataSpan} = require('weyder');
