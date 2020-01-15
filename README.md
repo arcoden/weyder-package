@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/arcoden/weyder-package)](https://repl.it/github/arcoden/weyder-package)
+
 ## Weyder
 
 ### 1. Installation
